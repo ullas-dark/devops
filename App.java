@@ -4,6 +4,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("50+100 = " + add(50, 100));
+        System.out.println("50+1000 = " + add(50, 1000));
     }
 }
