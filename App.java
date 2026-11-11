@@ -4,6 +4,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("50+1 = " + add(50, 1));
+        System.out.println("50+10 = " + add(50, 10));
     }
 }
