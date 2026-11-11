@@ -4,6 +4,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("400+12 = " + add(400, 12));
+        System.out.println("4010+12 = " + add(4010, 12));
     }
 }
