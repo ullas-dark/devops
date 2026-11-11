@@ -1,6 +1,6 @@
 public class App {
-    public static int add(int a, int b) {
-        return a + b;
+    public static int add(int c, int d) {
+        return c + d;
     }
 
     public static void main(String[] args) {
