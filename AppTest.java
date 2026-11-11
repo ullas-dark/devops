@@ -1,7 +1,7 @@
 public class AppTest {
     public static void main(String[] args) {
         int result = App.add(6,7);
-        if (result != 5) {
+        if (result != 13) {
             System.out.println("TEST FAILED: expected 5 but got " + result);
             System.exit(1);
         }
